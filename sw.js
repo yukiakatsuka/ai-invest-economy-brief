@@ -5,8 +5,6 @@ const ASSETS = [
   "./manifest.webmanifest",
   "./src/styles.css",
   "./src/app.js",
-  "./assets/icon-192.png",
-  "./assets/icon-512.png",
   "./assets/apple-touch-icon.png"
 ];
 

@@ -23,5 +23,3 @@ GitHub Pagesに公開しても、サーバーやDBは不要です。端末内保
 ホーム画面追加用のアイコンを含めています。
 
 - `assets/apple-touch-icon.png`
-- `assets/icon-192.png`
-- `assets/icon-512.png`

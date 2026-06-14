@@ -8,13 +8,8 @@
   "description": "AI・投資・経済ニュースを学習する個人キュレーター",
   "icons": [
     {
-      "src": "./assets/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./assets/icon-512.png",
-      "sizes": "512x512",
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     }
   ]
