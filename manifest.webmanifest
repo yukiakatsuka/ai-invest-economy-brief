@@ -1,0 +1,10 @@
+{
+  "name": "Brief - AI Investment Economy Curator",
+  "short_name": "Brief",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#f7f9fc",
+  "description": "AI・投資・経済ニュースを学習する個人キュレーター",
+  "icons": []
+}
