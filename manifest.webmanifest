@@ -1,11 +1,11 @@
 {
-  "name": "Brief - AI Investment Economy Curator",
+  "name": "Daily Brief - AI・投資・経済ニュース",
   "short_name": "Brief",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f7f9fc",
   "theme_color": "#f7f9fc",
-  "description": "AI・投資・経済ニュースを学習する個人キュレーター",
+  "description": "AI・投資・経済ニュースのタイトルとURLだけを毎日表示するシンプルなPWA",
   "icons": [
     {
       "src": "./assets/apple-touch-icon.png",

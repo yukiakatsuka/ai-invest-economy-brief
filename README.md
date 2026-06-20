@@ -1,25 +1,21 @@
-# AI Investment Economy Brief
+# Daily Brief
 
-iPhone Safariで使う、AI・投資・経済ニュース向けの個人キュレーターPWAです。
+iPhone Safariで使う、AI・投資・経済ニュース向けのシンプルなPWAです。
 
-## GitHub Pages
+## 方針
 
-このリポジトリをGitHub Pagesで公開すると、iPhone SafariからURLで開けます。
+- 1日1回だけ自動取得
+- 完全無料方針
+- APIキーなし
+- ニュース本文やAI要約は保存しない
+- タイトルとURLだけを表示
 
-## Feedback Storage
+## 仕組み
 
-記事へのフィードバックは、iPhone Safariの `localStorage` に保存されます。
+GitHub Actionsが毎朝6:30ごろに無料RSSを取得し、`data/news.json` を更新します。
+アプリはそのJSONを読み込み、カテゴリ別にリンク一覧を表示します。
 
-- 役に立った
-- 不要
-- 保存
-- あとで
-- 関心スコア
+## 注意
 
-GitHub Pagesに公開しても、サーバーやDBは不要です。端末内保存なので、iPhoneだけで使う用途に向いています。
-
-## PWA Icons
-
-ホーム画面追加用のアイコンを含めています。
-
-- `assets/apple-touch-icon.png`
+取得元は無料RSSなので、配信元の仕様変更や一時的な取得失敗がありえます。
+その場合でも課金は発生しません。
