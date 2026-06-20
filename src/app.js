@@ -38,14 +38,6 @@ function formatUpdated(iso) {
   }).format(date);
 }
 
-function hostName(url) {
-  try {
-    return new URL(url).hostname.replace(/^www\./, "");
-  } catch {
-    return "";
-  }
-}
-
 function filteredItems() {
   const items = state.news.items || [];
   return items.filter((item) => state.filter === "all" || item.category === state.filter);
@@ -104,7 +96,6 @@ function renderList() {
               <a href="${item.url}" rel="noopener noreferrer">
                 <span class="category ${item.category}">${labels[item.category] || item.category}</span>
                 <strong>${item.title}</strong>
-                <small>${item.source || hostName(item.url)}</small>
               </a>
             </li>
           `
