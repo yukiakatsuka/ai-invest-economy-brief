@@ -17,17 +17,50 @@ const articles = [
   ["cyber-ai", "ai", "Wired", "11時間前", "AI活用のサイバー攻撃対策、企業導入が加速", "ログ分析と異常検知にAIを利用。セキュリティ投資の優先度が上昇。", "生成AIによる攻撃の高度化に対応するため、防御側もAI分析を導入。セキュリティSaaSへの需要が広がっています。", "あなたが「AIセキュリティ」を閲覧しました", 63, ["セキュリティ", "AI運用", "SaaS"]]
 ].map(([id, category, source, age, title, summary, detail, reason, baseScore, tags]) => ({ id, category, source, age, title, summary, detail, reason, baseScore, tags }));
 
-const defaultState = { filter: "all", tab: "brief", expandedId: "openai-agent", feedback: {}, updatedAt: new Date().toISOString() };
+const DAILY_QUEUE_SIZE = 8;
+const defaultState = { filter: "all", tab: "brief", expandedId: "openai-agent", feedback: {}, dailyKey: dateKey(), refreshTick: 0, updatedAt: new Date().toISOString() };
 let state = loadState();
+normalizeDailyState();
 
 function loadState() {
   try { return { ...defaultState, ...JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}") }; }
   catch { return { ...defaultState }; }
 }
 function persist() { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+function dateKey(date = new Date()) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+function hashString(value) {
+  let hash = 2166136261;
+  for (let index = 0; index < value.length; index += 1) {
+    hash ^= value.charCodeAt(index);
+    hash = Math.imul(hash, 16777619);
+  }
+  return hash >>> 0;
+}
+function dailyWeight(article, index = 0) { return hashString(`${state.dailyKey}:${state.refreshTick}:${article.id}:${index}`); }
+function dailyArticles() {
+  return articles
+    .map((article, index) => ({ ...article, dailyBoost: dailyWeight(article, index) % 18 }))
+    .sort((a, b) => dailyWeight(b) - dailyWeight(a))
+    .slice(0, DAILY_QUEUE_SIZE);
+}
+function normalizeDailyState() {
+  const today = dateKey();
+  if (state.dailyKey !== today) {
+    state.dailyKey = today;
+    state.refreshTick = 0;
+    state.updatedAt = new Date().toISOString();
+  }
+  if (!articles.some((article) => article.id === state.expandedId)) state.expandedId = dailyArticles()[0]?.id || articles[0].id;
+  persist();
+}
 function score(article) {
   const feedback = state.feedback[article.id] || {};
-  let value = article.baseScore + (feedback.useful ? 5 : 0) + ((feedback.saved || feedback.later) ? 3 : 0) - (feedback.hidden ? 34 : 0);
+  let value = article.baseScore + (article.dailyBoost || 0) + (feedback.useful ? 5 : 0) + ((feedback.saved || feedback.later) ? 3 : 0) - (feedback.hidden ? 34 : 0);
   return { ...article, feedback, score: Math.max(8, Math.min(99, value)) };
 }
 function setFeedback(id, value) {
@@ -56,7 +89,8 @@ function interestScores() {
   return Object.fromEntries(Object.entries(totals).map(([key, value]) => [key, Math.max(25, Math.min(98, value))]));
 }
 function visibleArticles() {
-  return articles.map(score).filter((article) => state.filter === "all" || article.category === state.filter).filter((article) => {
+  const source = state.tab === "brief" ? dailyArticles() : articles;
+  return source.map(score).filter((article) => state.filter === "all" || article.category === state.filter).filter((article) => {
     if (state.tab === "saved") return article.feedback.saved || article.feedback.later;
     if (state.tab === "feedback") return article.feedback.useful || article.feedback.hidden || article.feedback.saved || article.feedback.later;
     return !article.feedback.hidden;
@@ -88,7 +122,8 @@ function renderTabContent() {
   return `<section class="feed"><div class="feed-header"><div><i data-lucide="list-filter"></i><span>${label}：${list.length}本</span></div><button class="sort-button">並び替え：関連度 <i data-lucide="chevron-down"></i></button></div><div class="news-list">${list.length ? list.map(renderArticle).join("") : `<div class="empty">該当する記事はありません。別のフィルターを選んでください。</div>`}</div></section>`;
 }
 function renderFeedbackTray() {
-  const article = score(articles.find((item) => item.id === state.expandedId) || articles[0]);
+  const source = state.tab === "brief" ? dailyArticles() : articles;
+  const article = score(source.find((item) => item.id === state.expandedId) || source[0] || articles[0]);
   return `<aside class="feedback-tray"><div class="tray-grip"></div><div class="tray-copy"><span class="category-pill ${article.category}">${catLabel(article.category)}</span><strong>${article.title}</strong><small>${article.source} ・ ${article.age}</small></div><button class="${actionClass(article, "useful")} tray-action" data-feedback="${article.id}:useful"><i data-lucide="thumbs-up"></i><span>役に立った</span></button><button class="${actionClass(article, "hidden")} tray-action" data-feedback="${article.id}:hidden"><i data-lucide="eye-off"></i><span>不要</span></button><button class="${article.feedback.later ? " action-button active tray-action" : " action-button tray-action"}" data-feedback="${article.id}:later"><i data-lucide="clock-3"></i><span>あとで</span></button></aside>`;
 }
 function render() {
@@ -104,8 +139,8 @@ document.addEventListener("click", (event) => {
   else if (tab) state.tab = tab.dataset.tab;
   else if (expand) state.expandedId = expand.dataset.expand;
   else if (feedback) { const [id, value] = feedback.dataset.feedback.split(":"); setFeedback(id, value); return; }
-  else if (event.target.closest("[data-refresh]")) state.updatedAt = new Date().toISOString();
-  else if (event.target.closest("[data-reset]")) { state.feedback = {}; state.expandedId = "openai-agent"; }
+  else if (event.target.closest("[data-refresh]")) { state.updatedAt = new Date().toISOString(); state.dailyKey = dateKey(); state.refreshTick = (state.refreshTick || 0) + 1; state.expandedId = dailyArticles()[0]?.id || articles[0].id; }
+  else if (event.target.closest("[data-reset]")) { state.feedback = {}; state.refreshTick = 0; state.dailyKey = dateKey(); state.expandedId = dailyArticles()[0]?.id || articles[0].id; }
   persist();
   render();
 });

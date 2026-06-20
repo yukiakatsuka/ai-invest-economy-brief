@@ -1,4 +1,4 @@
-const CACHE_NAME = "brief-pwa-v1";
+const CACHE_NAME = "brief-pwa-v2";
 const ASSETS = [
   "./",
   "./index.html",
