@@ -1,91 +1,119 @@
 {
-  "updatedAt": "2026-09-26T00:05:28.484Z",
+  "updatedAt": "2026-09-26T23:47:11.086Z",
   "policy": "free-rss-title-url-only",
   "fetchStatus": "success",
   "items": [
     {
-      "title": "中国で「AI俳優」が急成長 中国ドラマ制作の最前線とは 「実写ドラマ」に影響も（FNNプライムオンライン（フジテレビ系））",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13REp6MHVMSjlLbnRZZ3VMUFdJNlBoT0YtTW4wTkY2QlozaWJUeXNlVTFYUXRqaXp0RHB4VHdqTXFYY3Q2Q3R3OGpNUkhGdVpOSnpFaWNKRUpQYVlxMEMyZTJtcUo2RDY2QzU3R19ERnp0cTlRMjhRdDdTWlhDTVk?oc=5",
+      "title": "チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案 [AIの時代]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZjlqTFhpakFvcG42N3FaTlhmYnJ0VTVBLXBjMGk5d19JbGtrRGgzU3gyU2pTcmVCOFY1bXBZeElYYlJpRW9EVnZ1STFOM0lQRi1UUy1hanktZl9PY1ozcGdCaWlRaWs?oc=5",
       "category": "ai",
       "source": "Google News",
-      "publishedAt": "2026-09-25T14:35:00.000Z"
+      "publishedAt": "2026-09-26T09:03:48.000Z"
     },
     {
-      "title": "テクマトリックス、「Secure Code Warrior」にてAIリテラシー・セキュリティ学習の新コンテンツを提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uejk2OFBHemcyTFU1WnFyUVp5U1lHc0U5U01BQk9DVENWeEJweUw5NFVUZmdMTHVFQ3c4aDNVTHI2dEsxV0NIdGg5RUxwM1dZOWJsVUdR?oc=5",
+      "title": "人類が滅びる？高まるAI脅威論 国内の研究者の見方は | NHKニュース | 生成AI・人工知能、デジタル深掘り",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rckZMdGc2bG94cThacGtRS0VkdHpDNjgwS0drS3o1aHFsVTItUjJSLWFnYWdhNS1CTWNaQVJ5X1pudmR0ZkQtMElqTE45WU40OFZMY1NKck82U3VqQlFr?oc=5",
       "category": "ai",
       "source": "Google News",
-      "publishedAt": "2026-09-25T23:03:45.000Z"
+      "publishedAt": "2026-09-26T08:49:57.000Z"
     },
     {
-      "title": "「AI時代を見据えたオンチェーン金融フォーラム」について",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqd2FTeDBDNHhxV2xyS09HN1ZfOGhBRVBoMl92Y3p1UUFVYzFpTjYwcVpUZEJqWnNCYVNMdGd1NkxYVk1vZEI4WElBT3g4eWJtWDc3b0RjTGRtNVltMXc?oc=5",
+      "title": "AIは「SI」と言い換え 米中首脳が合意と米ホワイトハウス発表",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LZUZNREJsSDFIQUhCZW92M2xJTFhYLWVKYnZWR3F6aWRTN1Y1UHVhTWJQeEpkX1BVOER6bGNhSkNuQ0dOSWo2S2F6dVlqc0FuemNDV0RCazE3a2J5V3VkWWtiUEI4UWtsLUJhXw?oc=5",
       "category": "ai",
       "source": "Google News",
-      "publishedAt": "2026-09-25T09:34:52.000Z"
+      "publishedAt": "2026-09-26T12:22:00.000Z"
     },
     {
-      "title": "米OpenAI、AI暴走は数十件 不正アクセスや大量書き込み",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSV3NlcTZnRTFvNXRPUHhQcl9YRTVrWFV0Y2pmaGZSTWwyNFdCX3hPajZuR2tqaUJYSzhvNW03UnYyZkYzZnVxYUdkSm9wbXVIQlRZZ0xIOUQ3MFRkQ0MwSGxzMXJqNTVUdTl6cA?oc=5",
+      "title": "ＡＩ「暴走」さらに数十件 不正アクセスなど―米オープンＡＩ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pLWlSZVNTYmRrbVJvRjRQaEJzbjhCZXF5NDhQQ3JXQ0VGd0dSWTNHdFRHYjk0OUFIRTBBUXI4RjV6YXBBTkFsYW5LS3BwTVVZa0lrSzJyMFhJQndPandUTGo2UQ?oc=5",
       "category": "ai",
       "source": "Google News",
-      "publishedAt": "2026-09-25T21:13:34.000Z"
-    },
-    {
-      "title": "AIが司令部の「頭脳」に 変わる戦争の意思決定と日本のAI主権 [高市政権の安保見直し][安全保障関連3文書]",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YajFwZ1pUNHRzVGdrZ09XaGZrcURuUFp1WXB0WmhTeWxoSnhuMlh5UGwxXzFGem5rTnBEUmoxYzJfZkVoUFJrX0pQZFNCemgyRzBrOXBUM0RWNnNObnkzNDdCdDNyRFE?oc=5",
-      "category": "ai",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T21:00:00.000Z"
-    },
-    {
-      "title": "ＡＩは「人間に奉仕を」 ユネスコで訴え―ローマ教皇",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4WUFuUFN2cDVvS1FyaFJSdUxhcUVLa1BHaGlpRDlxcExzbjhRcURFX2RpZVVUWlY1ZkMzZFdsb0JncW9GUWk0TXR6RVdmQnZTajdaemRGRlBicXBRUzRjcnBobw?oc=5",
-      "category": "ai",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T22:38:00.000Z"
-    },
-    {
-      "title": "【著作権・肖像権について】生成AI等の利用に関する注意事項追加のお知らせ",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEaGE5QW0zUkJyMGNVdEJDbTZWUWtyT3M2SmU1TkxQS1drbE1veVNLdk9WSUFwR0dOZFB4WXQ2c2REUkt0UWhPUkdiYWw4d0N3RzN2VURDOWI?oc=5",
-      "category": "ai",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T07:01:18.000Z"
-    },
-    {
-      "title": "米国株式市場＝主要3指数上昇、マイクロソフトなどＡＩ関連株がけん引",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZVp4cmhDbzlQYUkyUk9KQVA1MGdWLXMzT1JhQllvcUc2RVAzUGFjWk9YRUw3V19wSUlTVmJESWlIUmh4SW9NRFpFeEU3RFlvWXNlT1BoUGpqZDZmVGV3aTZDNjFKaHBVUTBLclBLVmZ3OWtGMEt1cE5teDE5emFXTUZKYTZyUQ?oc=5",
-      "category": "ai",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T20:45:55.000Z"
-    },
-    {
-      "title": "米Microsoft、Copilotを「仕事のOS」に再設計",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ycEE5R0MyYXRPc2xLX0tOR1ZLNE5aRTk2SnN0S2xScTE1eWV4S2poY0FqN2RFdGhOUnFXOXkxZF9lQ1lnMW5SWXRkYUl6SWdMUXo0dVNfNnFWczZrdWpIOWtiOU9pUQ?oc=5",
-      "category": "ai",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T23:54:51.000Z"
-    },
-    {
-      "title": "「日本語書籍を食べるAI学習」に怒る人が知らない〈意外な恩恵〉",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JT1NrQ2VFM1pzYndhRnlaeXhBOFlKLUpXTTUwaGM1MmdSeFZWczBkRFlDLVJpSnd3UlFveDJXQnI1M09sM3RqcWswV2PSAU9BVV95cUxQUXlFWk5KUHFDN0hYQWktcUVYM3MwZ0dMZ18zUFdMb0JjS0t2ODVqY2NaYXZBQjU2NGdya2gydkhaazFyV251cXFJa1VYSHNr?oc=5",
-      "category": "ai",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T23:00:00.000Z"
+      "publishedAt": "2026-09-26T07:45:00.000Z"
     },
     {
       "title": "競馬 - 2026年スプリンターズステークス AI予想",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkY2phcDV2cGZfcmlGcEVZb3hnV2hGUGV1OVVhVWlKLTZqVnpJY3NTZVdrUEVjaXlWSllLdWFXUlQ2QnRFNnM0d2lCZVkzRERIMG1BR3YxUmlsbFB6eFQ5R2hhT05wUEx2S0Rz?oc=5",
       "category": "ai",
       "source": "Google News",
-      "publishedAt": "2026-09-25T23:39:53.000Z"
+      "publishedAt": "2026-09-26T23:45:37.000Z"
     },
     {
-      "title": "（著者に会いたい）『ＡＩは百姓になれるか』『殺さずに食べることはできるか』 宇根豊さん",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZjdsT09MMlNwWHdwam1iQUF6ZndOamRrbzNiRjRzbnBJREVaOHFadTBVUG5pQzFJaW5CNkZoZm1zd3VIbVpzQ3VoQzFuNTlKTC13YV9tNS04cURj?oc=5",
+      "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnQmw4UURqMVJsTUd1Um4xMVZCaUNyV3U2dlVGNEx1Q3lSMldpOFN0eXdkU1lDLWduZVZWQ1FpNnBMUzU5MEdxNFlnaUdOT3dHeE5heVMzeWswVkZuMENzTVFsR0NGZw?oc=5",
       "category": "ai",
       "source": "Google News",
-      "publishedAt": "2026-09-25T20:00:00.000Z"
+      "publishedAt": "2026-09-26T22:00:00.000Z"
+    },
+    {
+      "title": "米中、300億ドル相当の関税引き下げで合意 ＡＩは「ＳＩ」に",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkxSRFdNcWVJaDFKOVdHSGhRM2U5c3d1WnNNM05LbTJjOUlIOXVVRkpPek5wM2pQSUpfdUhpWEc5SFZYel83NVE2TmtVUWJQNXNuY3N2M0FJTDZpdmdRUTBaYWRrNUwxeURxSHo5YUc2SHkxbFB0a0xhYUJUXzMtaFVYX2k?oc=5",
+      "category": "ai",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T19:59:07.000Z"
+    },
+    {
+      "title": "（社説）ＡＩの安全確保 依存なき多国間連携を",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aGsxSERHV0t2YWlCNVc3RERUTlFWX0hOT3VDMF9CMktDbXllNjd6Z3BrV3p5T0t2WXRSNUF0N2g3b24xY1hKUlpsTHFXeW5DaUpPMXQ4a1k2VFk3?oc=5",
+      "category": "ai",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T20:00:00.000Z"
+    },
+    {
+      "title": "AIを「SI」と呼称 米中が合意",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQVjRVdWh2Y3doSlJzd0NiaWNGb0hOWmFfZ2IzX0l1ak15MzVmM2lhVXRrNEs0eGsxbWxaTnNGamIwOUM2ZEF2WkpsR2daTDVs?oc=5",
+      "category": "ai",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T07:20:28.000Z"
+    },
+    {
+      "title": "ＡＩ、米中は「ＳＩ（超知能）」と呼称 危機管理へ連絡経路―首脳会談",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOX0VZclBtUjdIQk5oeWk4RXRCUE1kUkpXS1FveVpCSXJwMnpPUk8tUE5lVTlFNExJWGJQUlltdHluaFR5MDg5YkJqYkdzVk9ldnNfM1Yzc2NSRHFQMWZKWTF4WQ?oc=5",
+      "category": "ai",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T06:46:00.000Z"
+    },
+    {
+      "title": "AIに仕事を任せるほど、セキュリティは困難に？ Akamaiが警鐘を鳴らす「AIのふるまい」",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LREpSYU1RTEtKbXRVQ181aE9IWnAtby1yTG9NUmtoR2EzTDdrV01LdmNRZUUycldjbnJaMjlYVVhqVXJpMndPb1h1YXY4cVk5QmsxLWJRc3RoeHZHUzNiYkd5ellkUQ?oc=5",
+      "category": "ai",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T22:00:00.000Z"
+    },
+    {
+      "title": "海底に沈むプラスチックゴミを映像から自動検出するAI開発",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvS2dhdHQzdEpybzBZTGlkYjdaWEItVHY3dEpidFB5MldwY1hESjRtV2pPaEhpZjNDMjlEcC0zcXNtSWh0UDlzaVhOR0hDazBmTEZLMkljVDVGT1QxeVo4?oc=5",
+      "category": "ai",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T20:06:36.000Z"
+    },
+    {
+      "title": "AI調達巡る政府決定 米高裁が支持",
+      "url": "https://news.yahoo.co.jp/pickup/6596633?source=rss",
+      "category": "ai",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-26T09:20:14.000Z"
+    },
+    {
+      "title": "スマホ料金 低価格ブランドは攻勢",
+      "url": "https://news.yahoo.co.jp/pickup/6596622?source=rss",
+      "category": "ai",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-26T07:51:42.000Z"
+    },
+    {
+      "title": "「外国人窃盗」の偽情報 SNS拡散",
+      "url": "https://news.yahoo.co.jp/pickup/6596592?source=rss",
+      "category": "ai",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-26T02:58:55.000Z"
+    },
+    {
+      "title": "OpenAI意図せぬ外部接続「数十」",
+      "url": "https://news.yahoo.co.jp/pickup/6596583?source=rss",
+      "category": "ai",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-26T01:32:40.000Z"
     },
     {
       "title": "ahamo「大盛りオプション」終了へ",
@@ -116,60 +144,53 @@
       "publishedAt": "2026-09-24T01:08:48.000Z"
     },
     {
-      "title": "JCOMネット接続「復旧」と発表",
-      "url": "https://news.yahoo.co.jp/pickup/6596303?source=rss",
-      "category": "ai",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-23T12:44:27.000Z"
-    },
-    {
-      "title": "iPhone18Pro 先代と外観の違いは",
-      "url": "https://news.yahoo.co.jp/pickup/6596278?source=rss",
-      "category": "ai",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-23T09:32:11.000Z"
-    },
-    {
-      "title": "波紋 大食い動画の収益停止相次ぐ",
-      "url": "https://news.yahoo.co.jp/pickup/6596210?source=rss",
-      "category": "ai",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T23:23:24.000Z"
-    },
-    {
-      "title": "AIは「SI」に改称 米大統領宣言",
-      "url": "https://news.yahoo.co.jp/pickup/6596201?source=rss",
-      "category": "ai",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-22T22:30:01.000Z"
-    },
-    {
-      "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwS1lNd1JkSllWYUhhc1BaUktHd0ZzYTB0RzVHa0M5YzdJb3lqckNsai1NUERBcEtXRmtGdDgxblBqcEVxMkVJRkJXRlVFbU94MkE?oc=5",
+      "title": "日経平均株価の指数情報・推移",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-25T22:46:51.000Z"
+      "publishedAt": "2026-09-26T21:12:27.000Z"
     },
     {
-      "title": "来週（9/28～10/2）の日経平均株価の予想レンジは6万5000～6万8000円！ 10/2の米･雇用統計などの重要指標と75日移動平均線を上抜けるかどうかに注目！",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRm5pYVlqc3k1VmlqUGZoQTN0WHJzU2I3VUVDeVpQVWhJLTNqU2UzRHlmcERTMUFHSjAxTnUyR3F1ZnZvM3JPZ2dWYko1alhObmxv?oc=5",
+      "title": "カドー[628A]の株価・株主優待など。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BaFQzU1VHdloxNVJyMGRjS2dJclFUOXZaRnd0YXZHSHB4RTZNN3NDOUc0MDNSQmFLQWZFOWVuMldzUXBScG9UNmhCOVN5Si1wUFVqSXBZdmNiQQ?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-25T10:55:00.000Z"
+      "publishedAt": "2026-09-24T23:44:17.000Z"
     },
     {
-      "title": "三井物産株の上値重く 大型投資、収益貢献の道筋が焦点",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10Qjc5TmxHREtTMENnSnBQcXRtVTdrZk1Md1VjRTYweDAycHIyZnJBaUVzSWpUREQxNHJCa2NfQmZKdHVnNU9PejJGOEZZUW5ROHczR0xnZDNpX0JJUnN2TXpVT2x2bHhYbEs1cG9OX290SDM3cWpmR3JnZTAzQQ?oc=5",
+      "title": "株主・投資家（IR）情報",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03VlNCQjg0TTNHaTFDWnFSbk9CY0hiS242WkdqLXViWG13X1FGQ1dVcHI0Z044UVM3T1hiSnd5WkJyTWhORXhybzdKSi1GUQ?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-25T20:00:00.000Z"
+      "publishedAt": "2026-09-24T07:00:00.000Z"
     },
     {
-      "title": "日本都市ファンド投資法人【8953】：株価・株式情報（夜間PTS含む）",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SLXlIcGVaeWRvRTRnNGh1WVBnRkM5Zld1WFFzNXZjdWF5a1YyZWFITVBDT1BSZGJHWWFEMjc3TU14REZYcXN6M0UwRTctMFNXYWc?oc=5",
+      "title": "【米国株】GAFAM＋αの中で投資判断が“買い”の2銘柄を紹介！ 衛星通信サービス｢スターリンク｣が好調の｢スペースX｣、好決算を発表の｢エヌビディア｣に注目！",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sMnYtVDZpaGJfZmNJX3k1VWMtbzRXVklyTXJaQ2w5LWJuejUyU2RuNUtkQkJEUEVXd3ctQmViMTR4OUE5YkJCYXQ1OUMxMnEyQlow?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-25T20:48:59.000Z"
+      "publishedAt": "2026-09-26T23:00:00.000Z"
+    },
+    {
+      "title": "(株)ジャパンディスプレイ【6740】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqbE5vZUhsbG9vZmtyV1hzd21wNkI4VlhmWFhwWkNvSF9ldkVGMDE3VGJIeENqZDdIR0hydk1xTmVxZWFERVUxVk5sbzVwR2xabVE?oc=5",
+      "category": "invest",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T19:50:18.000Z"
+    },
+    {
+      "title": "1分でチェック！今週の米国株式",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2b0V0aFBDek1nbHdOekhKNlljSVlpZXptcEVjWkt3c2pGMUJSbWFIandPVGRSbkE4emdHZ1VrWi03Rm5FVzBSbUdLcEdMWU5YNDVMVHRicDRPaTVJU2NTZmxURDV6dVNjSnJn?oc=5",
+      "category": "invest",
+      "source": "Google News",
+      "publishedAt": "2026-09-24T07:00:00.000Z"
+    },
+    {
+      "title": "レーティング週報【最上位を継続＋目標株価を増額】 (9月24日－25日)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMW9FTEVoRU5RWGMyd01VTUpqVnliVnFlbmxxM3FtWGhiM3diYXVGNHUtYklEZE1xc1JObjBSRDczNnZWd2JhN2ZESjVOX1dtRVpFQmRrcEQ0N2RLSzcwYQ?oc=5",
+      "category": "invest",
+      "source": "Google News",
+      "publishedAt": "2026-09-25T23:40:05.000Z"
     },
     {
       "title": "レイヤード[634A]の株価・株主優待など。",
@@ -179,46 +200,46 @@
       "publishedAt": "2026-09-24T23:44:23.000Z"
     },
     {
-      "title": "【92歳 現役投資家が実践】株の損失を最小限に抑える鉄則・ベスト2",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SNzN0RkdmQTZHRlctOXlqVlpSTEFTSFFKT3RiNjNPVFpQbzctOXIzX1g4NU9CVVNCcTRvZ0x5Y2tlamdSTzZGcDh4d0LSAU9BVV95cUxNZU1VX2xkdUdDTXJyTTc5UHdyT1Z5REliUWhmekh5RHkyRlQxVzJlbWl0amdBWEFhLVlrUzBha2VKS0lFempIbUdfUUZGWjl3?oc=5",
+      "title": "株の「確証バイアス」からあなたを救う…NGな投資行動・ワースト1",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KeENvTUlmTGMzU1ZtamEtNmlzWFpyelJTY1JOWXl4U0pxcDlwaVJpTVlmemxzR3NuM2duemI2SDd4X19nWVpKUUZZMlfSAU9BVV95cUxQZHNVNzlNRHFEaDRkNU1qQUhITWpCc1ZINXJjd3Jjc281ZjAxTWlqREZQYzVCTXBPRDNKMllvRW1VS0hhbWU1S212NlpjNE4w?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-25T21:15:00.000Z"
+      "publishedAt": "2026-09-26T21:15:00.000Z"
     },
     {
-      "title": "ソフトバンクグループ(株)【9984】：株価・株式情報（夜間PTS含む）",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55YWlQaEwwWXc5TW9lVHVuTGxCY2hKTnRLZjZTZFRoNVJZenhZUERYZWdxaDJreVdfa3p4Sk9zTHNaRkhHb3FHWUp3MVhmLVJGVEE?oc=5",
+      "title": "(株)ティアフォー【593A】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94TjJYZU16blZqUGNKRHRDY2c1YlRGRFZSYW5fbXo3Ym5LNW0zSWdDeDA5UmdDYjFWMFA2OERRb2tyTEM5UkR3YnFOS3Brc25Ec1E?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-25T22:08:10.000Z"
+      "publishedAt": "2026-09-26T19:01:54.000Z"
     },
     {
-      "title": "カドー[628A]の株価・株主優待など。",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BaFQzU1VHdloxNVJyMGRjS2dJclFUOXZaRnd0YXZHSHB4RTZNN3NDOUc0MDNSQmFLQWZFOWVuMldzUXBScG9UNmhCOVN5Si1wUFVqSXBZdmNiQQ?oc=5",
+      "title": "来週（9/28～10/2）の日経平均株価の予想レンジは6万5000～6万8000円！ 10/2の米･雇用統計などの重要指標と75日移動平均線を上抜けるかどうかに注目",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRm5pYVlqc3k1VmlqUGZoQTN0WHJzU2I3VUVDeVpQVWhJLTNqU2UzRHlmcERTMUFHSjAxTnUyR3F1ZnZvM3JPZ2dWYko1alhObmxv?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-24T23:03:00.000Z"
+      "publishedAt": "2026-09-25T10:55:00.000Z"
     },
     {
-      "title": "【日本株】2026年・秋の「おすすめ大型株」2銘柄！ 原油高＆円安が追い風の｢INPEX｣、ディズニーシーの25周年イベントが好調な｢オリエンタルランド｣に注目",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuT1padWVqZ3JjLUVKUWNUTklBOHZ6T1NnRDJINFlzS0hXVTVId0ROTk1qQXhxRU52Vk01UTJuU3NZVGxJRk5RQTIydVIwMnVzWnc0?oc=5",
+      "title": "豊和工業(株)【6203】：株価・株式情報（夜間PTS含む）",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zREJhczBNek9SVkN3NmptN2hIZWNJOHpkZkpSRFY0S2FDYnI5VXFjOVFBREtsS0NTUUdVbmJKZEk4ZUp2T1lyY2JjOUJMVTREOEE?oc=5",
       "category": "invest",
       "source": "Google News",
-      "publishedAt": "2026-09-25T23:00:00.000Z"
+      "publishedAt": "2026-09-26T20:50:03.000Z"
     },
     {
-      "title": "ヘルスケア＆メディカル投資法人【3455】：株価・株式情報（夜間PTS含む）",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlNTVabXhueEdjWWZtemhuaTN1MERma3BYSldFVEg1QVdOQTNkNFRJRXJQWGZfMWdhVnUxc2xEUWM2dVRsblprUUpkUUJ1UmpuMGc?oc=5",
+      "title": "コメ下落「大盛り」値下げの動き",
+      "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
       "category": "invest",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T21:10:36.000Z"
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-26T07:25:45.000Z"
     },
     {
-      "title": "日本株ADR25日、全面高 みずほFGなど金融高い",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tMGhUbkMybHphVHRMaEVUSlRBalZScllrakdONWJQXzI1UF9OVXppYm9JQ3UyaGp2QjJtZl82ZzJGdkxqRlFqQlNCT2prNWxyWFhRMXRtRzlGSG9QVVdRbFFLOGkwTjVhVTBCaA?oc=5",
+      "title": "10月値上げラッシュ 家計負担重く",
+      "url": "https://news.yahoo.co.jp/pickup/6596639?source=rss",
       "category": "invest",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T20:17:16.000Z"
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-26T09:54:34.000Z"
     },
     {
       "title": "外国人の起業 制度厳格化で急減",
@@ -228,11 +249,18 @@
       "publishedAt": "2026-09-25T23:40:16.000Z"
     },
     {
-      "title": "姫路独協大 徳洲会に経営権譲渡へ",
-      "url": "https://news.yahoo.co.jp/pickup/6596507?source=rss",
+      "title": "トキエア再延期 県からの融資返済",
+      "url": "https://news.yahoo.co.jp/pickup/6596667?source=rss",
       "category": "invest",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-25T08:05:35.000Z"
+      "publishedAt": "2026-09-26T14:03:46.000Z"
+    },
+    {
+      "title": "「超エルニーニョ」経済的損失は",
+      "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss",
+      "category": "invest",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-26T11:33:30.000Z"
     },
     {
       "title": "ジャングリア 追加融資などを要請",
@@ -242,53 +270,53 @@
       "publishedAt": "2026-09-25T13:02:42.000Z"
     },
     {
-      "title": "全東信破産 カード会社が支払いへ",
-      "url": "https://news.yahoo.co.jp/pickup/6596454?source=rss",
+      "title": "代替コーヒー 背景に2050年問題",
+      "url": "https://news.yahoo.co.jp/pickup/6596680?source=rss",
       "category": "invest",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-25T01:04:50.000Z"
+      "publishedAt": "2026-09-26T23:32:43.000Z"
     },
     {
-      "title": "JR九州27年度にも新金融サービス",
-      "url": "https://news.yahoo.co.jp/pickup/6596500?source=rss",
+      "title": "ダイナム クレーンゲームに手応え",
+      "url": "https://news.yahoo.co.jp/pickup/6596621?source=rss",
       "category": "invest",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-25T07:40:48.000Z"
+      "publishedAt": "2026-09-26T07:46:45.000Z"
     },
     {
-      "title": "市販ナビ ストラーダ生産終了へ",
-      "url": "https://news.yahoo.co.jp/pickup/6596512?source=rss",
-      "category": "invest",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-25T08:40:26.000Z"
-    },
-    {
-      "title": "ドンキ 10月からPBビール値下げ",
-      "url": "https://news.yahoo.co.jp/pickup/6596532?source=rss",
-      "category": "invest",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-25T11:08:52.000Z"
-    },
-    {
-      "title": "ファミマ「バイト改革」なぜ今",
-      "url": "https://news.yahoo.co.jp/pickup/6596440?source=rss",
-      "category": "invest",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T22:57:39.000Z"
-    },
-    {
-      "title": "長期金利の上昇が加速、「ターミナルレート」も引き上がる？ 住宅ローンや債券投資の判断のポイント 野村證券・美和卓",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CODR4SFN3VHlXeUVXOTk1ZDRCcTZJeHY1ODZOM0doa3FhRVZOazBrT1VEX2hic2tmcGx3RERpeW84bnZibzk1d3FYaG9OVFRreW5KaE1vUncxbFRPRHl3?oc=5",
+      "title": "政策金利1.25％に！ 定期預金は今すぐ預けるべき？ それとも金利上昇を待つ？(あるじゃん（All About マネー）)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTU5a1czTnJKSWZpbXVtNUJ5VnVEdGxUaGNCbDh5SV9xRkFieV9oTmV3eUFZREg3dFAyWHhFSjlzYXVFTmhIRjVDZjZHRk91SUpURHRMRWh4VE8tNXY5cGE5Ymd0ZWtROTI2dEZtOE9NNFR0THVfUjFfTlhlbU52TWFwYWRmTmM?oc=5",
       "category": "economy",
       "source": "Google News",
-      "publishedAt": "2026-09-25T03:23:24.000Z"
+      "publishedAt": "2026-09-26T12:40:01.000Z"
     },
     {
-      "title": "来週の為替予想（米ドル/円）159円台で円安容認観測に変化、FRBと日銀どちらが10月利上げに近づくか ハロンズFX 2026/9/26",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wUDVVTmZOcFZLTmxJNzJKZTdUdGljYTk1SnhBQUZFcVExamtpeW1FUlh2UE5TNWJKdFJKVkI5NnZUY1VsNGZ6UmZMZkt1M0dQTkszemdtY1AyWk0zQzkydE9ZWQ?oc=5",
+      "title": "原油が下がっても米金利は5％超 なぜ？ 強い米景気と世界的な「債券安」を整理【相場の現在地】2026/9/27",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9peHkxV0p3TkVWVmVlXzY5QUdjSXllemVWSTRsMWYxN244U1VqdDd4SVpWYXhYUkNoMTdnenRTZXpDV2wzVmRUSUZnbV9HUkFLUzhETnB6dUlNQTNvU3BxdERONA?oc=5",
       "category": "economy",
       "source": "Google News",
-      "publishedAt": "2026-09-25T21:02:35.000Z"
+      "publishedAt": "2026-09-26T21:04:04.000Z"
+    },
+    {
+      "title": "協調為替介入を受け利上げペースは加速するか 高市政権から9月利上げ容認メッセージが出るかに注目 野村證券・宍戸知暁",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dXlZVjZyWmdQUHpqNGx1TXFnUS04aG00amJvMTJLbE5QMGVGMjUwZzJKSXlDbWw3aXJNLVpBeHN2QjhJbTFXamZXbjFMYjVUOG41Q1pCVF93bWpndHVN?oc=5",
+      "category": "economy",
+      "source": "Google News",
+      "publishedAt": "2026-09-25T07:00:00.000Z"
+    },
+    {
+      "title": "日銀次の利上げの注目は「10月展望レポート」、物価“2％定着”が課題の新局面",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvc25ab3kxOGZJTnc3dmNVaXJjSHBKT3JDYnNhZnRjQ0M1Qlg1SzBSYk0teklpNjFOLUNleXF3QTROcExPaDBiN2xkRDfSAU9BVV95cUxNUFp0eGRVSjJCOXRIUTBWT08xR2ZsR3ZZS3dkZGZVMG9LTUY0TTJ5RjdQRkNwME9TZW42RHpydzNrYkRqMl8wcWJnRDB4eHVV?oc=5",
+      "category": "economy",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T19:50:00.000Z"
+    },
+    {
+      "title": "（日曜に想う）金利のサインに向き合えるか 記者・有田哲文",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZbW04Y1hrOHpTQ3RBMng4OVIzUjZZU1oxdkJSY1dhT1Yyd1BXNllLZ1JmYmswS0g4c0VRQkdHalFOM3F2dllzU1p3XzVyNWlIN20tRDBEcjViUUdT?oc=5",
+      "category": "economy",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T20:00:00.000Z"
     },
     {
       "title": "日銀政策金利、現状1.25%→到達点予想2.5%台に 「行き過ぎ」の声も",
@@ -298,6 +326,27 @@
       "publishedAt": "2026-09-25T07:06:48.000Z"
     },
     {
+      "title": "社説＞食育白書／物価高騰の影響ここにも|オピニオン",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NSTUtaFR1NGJreXRqQU1TZ2wzb0ktNC0yVENHeWdlV3RPTXZudFI1R04zblBrbk9KNkdsSmNLUnJ1NGdqZDcyYlN6aUdyUFJQOU9wUmF4Wm8xSlFBYmtsNDlwek96MUow?oc=5",
+      "category": "economy",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T20:10:00.000Z"
+    },
+    {
+      "title": "節目超えの｢金利上昇｣にびくともしない株式市場の\"謎\"",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mQnpQZTk1S0JJOXhONFRzSHR4NE0xZV9hbjlEZ0V2dkhJV3NvSEp1OXI1RERpajB3cDl4cFhrYTNHcUlHbm1JWG5RTE5KQU5FNE9oc3lWbw?oc=5",
+      "category": "economy",
+      "source": "Google News",
+      "publishedAt": "2026-09-25T23:00:00.000Z"
+    },
+    {
+      "title": "［社説］ジャングリア苦戦 「強い経済」の試金石だ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwdGhGN3I5SDBfT0VhMXBLZENqZVBsaE9nOHJVaVBvZndQQktyZGlnQ25hVU5Udnc2NG1OamhhdlBHWWxaVHdhSllJZVBaN2xUM2dCWkdSVFhNMjgtZ1E?oc=5",
+      "category": "economy",
+      "source": "Google News",
+      "publishedAt": "2026-09-26T19:00:00.000Z"
+    },
+    {
       "title": "「日本スタートアップ大賞2026」の表彰式を行いました",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zdkNKeTZpWnUxdS1VTVdwc3NQWHZpdXZNRkw5OWpkRDBMWVVEZVNoSTdfeHhMT29HRlJxVVAya3ZhdmlwTWFPX0k5VmVza28wUzdsUUExZEF6ZjI0MG16X2xRbw?oc=5",
       "category": "economy",
@@ -305,60 +354,18 @@
       "publishedAt": "2026-09-25T10:21:14.000Z"
     },
     {
-      "title": "長期金利一時3.115% 30年ぶり水準",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sSkx0bUxSMmtQVlNaQVMyVjIyN2hTdDBjMUF1Yi03TGFBTkVxSzR2TzhLalNVRWNaUDVJS2tCU0FfNmZoRGhkRWZVNXVsSGNG?oc=5",
+      "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
       "category": "economy",
       "source": "Google News",
-      "publishedAt": "2026-09-25T02:13:35.000Z"
+      "publishedAt": "2026-09-26T21:56:17.000Z"
     },
     {
-      "title": "米国の実質金利を見よ 長期的な「金価格上昇」が続く理由",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdVh4am84Y0FnalRvWTV1ZmxaV2M1U0ZFSTgwOWhDNjlQTzh0dEh4QkVVV2xmWHF0anAyX3pSR0NJUllzVGlHdG1Ecm4wZlp3RnVCMlo1ZThmVTc0MlNLR25LbVdyVUVTZFRvN3YxWW9qNGhuWnRET2oyRWRxT1E?oc=5",
+      "title": "豪ドル/円 見通し「RBA、今年4回目の利上げへ...5回目の利上げをめぐる観測が焦点に」注目の高金利通貨 9月27日号",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zcHBRMkhwSm9oc1JveGhMUXNnSTF5MHpTbUh2cW4xZ1k0bVdON3VOMjNvUnEwWmw0Qi1saDFfT19oUFBXVmw3dkR2Y2FtQkVFMFNPMmFrSDBqZlQ4QkV2dzJYRQ?oc=5",
       "category": "economy",
       "source": "Google News",
-      "publishedAt": "2026-09-25T21:30:00.000Z"
-    },
-    {
-      "title": "グローバル経済の混乱の発端は「国富論」の曲解にある 佐伯啓思さん",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PX2Y1V2ZtbEpWSllYR2JzeFhsMlFfOVl4X213Y3EtTkRSTmV5N1dyNUcxY19qbXo3dW1nVHZtMURzd253QjZOanhKTGhQYS15QjJycEVYSFN2Ul9Da3BPdmtEX3VOSzg?oc=5",
-      "category": "economy",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T22:00:00.000Z"
-    },
-    {
-      "title": "【視察】経済調査会がマイクロン広島工場を視察",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PMjRtUkFtbkFiMjNNYmJ2Uk9lOUp5cHlzbHRNcWVPc0s1ZmxJNks3OG1ZMThIQlhmM0JrckdZaUF1elFrT2NJWkJTYTdNb3dLUi1BS3BDbGo2R1k?oc=5",
-      "category": "economy",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T08:06:07.000Z"
-    },
-    {
-      "title": "金利上昇、世界で鮮明に 原油高でインフレ懸念拡大",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKaVc3Z2RPLUxkd0dLQTFfRVBTenNBcUFqUVFxaTZkc0tOTmVtMno1TWVSXzZVRDlLV2ZUem5GUEVZekNNS0VCbWV0VWNmZ3NMSGRIb1dfZXNIMHNyMlFQdWZJOA?oc=5",
-      "category": "economy",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T11:30:00.000Z"
-    },
-    {
-      "title": "社説：金利上昇と家計 リスクを点検するべき局面だ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01SlZkWEk1ajR5RnJEWEVFRnR4ejA2LVVrX2hfZ2swUE1Zb01fS1pZV3dUSFNhWjBCUUJ2N1NOR1NsdlhqV2FDcG5wMHBkRGZOVjNvMzltbFJ4S05DUnB4S1RGZGgwNzA?oc=5",
-      "category": "economy",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T20:00:00.000Z"
-    },
-    {
-      "title": "FX/為替「注目のFX週間イベント 来週の為替はどう動く？」9/28～10/4【来週の為替予想】",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fRHFqbFRwbGduM0lPRmpOblFETjhSalFQczZWYlVpRmF0a0FwcHYzWThlOFl4cW5sSkdGVUpwaGxSb01UTkZ5UUY3N3N3NEVRR2pIa3ZtN1RXYzkwYVhjZi1RRQ?oc=5",
-      "category": "economy",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T21:30:34.000Z"
-    },
-    {
-      "title": "日本の長期金利上昇、一時3.115% 世界でインフレ懸念の売り",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MZ0kybjlXNG8zYU1lOE9wNFZhY2lQdzJKRy1rWWdFOUNDSTl3c1lpak1mRWNicFFKcFlxVW1FcEl3MGlEOVZweTMxRnFULWNGOGw2Nk9vZ1hFaEJxUWVKOW5lWFBuZjRjM25Gag?oc=5",
-      "category": "economy",
-      "source": "Google News",
-      "publishedAt": "2026-09-25T00:54:32.000Z"
+      "publishedAt": "2026-09-26T21:04:05.000Z"
     },
     {
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
